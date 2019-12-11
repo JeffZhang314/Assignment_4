@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Assignment_4
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=_ratings\ _powerMean
+comment10.target=int\ hardestRater2018(double[][],\ double)
+comment11.params=_ratings\ _powerMean
+comment11.target=int\ worstMovie2018(double[][],\ double)
+comment2.params=textPrinted
+comment2.target=void\ print(java.lang.String)
+comment3.params=numPrinted
+comment3.target=void\ print(double)
+comment4.params=textPrinted
+comment4.target=void\ println(java.lang.String)
+comment5.params=numPrinted
+comment5.target=void\ println(double)
+comment6.params=arrayPrinted
+comment6.target=void\ println(double[][])
+comment7.params=_ratings\ _movie\ _powerMean
+comment7.target=double\ movieAvgRating(double[][],\ int,\ double)
+comment8.params=_ratings\ _reviewer\ _powerMean
+comment8.target=double\ reviewerAvgRating(double[][],\ int,\ double)
+comment9.params=_ratings\ _powerMean
+comment9.target=double\ avgRating2018(double[][],\ double)
+numComments=12
